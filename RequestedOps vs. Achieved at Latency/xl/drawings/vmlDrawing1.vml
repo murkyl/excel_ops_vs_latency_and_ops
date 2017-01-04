@@ -44,7 +44,6 @@
    <x:AutoFill>False</x:AutoFill>
    <x:AutoLine>False</x:AutoLine>
    <x:TextVAlign>Center</x:TextVAlign>
-   <x:Checked>1</x:Checked>
    <x:FmlaLink>Helpers!$I$2</x:FmlaLink>
    <x:NoThreeD/>
   </x:ClientData>
