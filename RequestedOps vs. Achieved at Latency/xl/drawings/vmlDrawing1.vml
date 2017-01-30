@@ -25,7 +25,7 @@
    <x:AutoLine>False</x:AutoLine>
    <x:TextVAlign>Center</x:TextVAlign>
    <x:Checked>1</x:Checked>
-   <x:FmlaLink>Helpers!$H$2</x:FmlaLink>
+   <x:FmlaLink>Toggles!$B$1</x:FmlaLink>
    <x:NoThreeD/>
   </x:ClientData>
  </v:shape><v:shape id="_x0000_s4098" type="#_x0000_t201" style='position:absolute;
@@ -44,7 +44,47 @@
    <x:AutoFill>False</x:AutoFill>
    <x:AutoLine>False</x:AutoLine>
    <x:TextVAlign>Center</x:TextVAlign>
-   <x:FmlaLink>Helpers!$I$2</x:FmlaLink>
+   <x:FmlaLink>Toggles!$B$2</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s4099" type="#_x0000_t201" style='position:absolute;
+  margin-left:192pt;margin-top:60pt;width:48pt;height:15pt;z-index:3;
+  mso-wrap-style:tight' filled="f" fillcolor="window [65]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    4, 0, 4, 0, 5, 0, 5, 0</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:Checked>1</x:Checked>
+   <x:FmlaLink>Toggles!$B$4</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s4100" type="#_x0000_t201" style='position:absolute;
+  margin-left:192pt;margin-top:45pt;width:48pt;height:15pt;z-index:4;
+  mso-wrap-style:tight' filled="f" fillcolor="window [65]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    4, 0, 3, 0, 5, 0, 4, 0</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:Checked>1</x:Checked>
+   <x:FmlaLink>Toggles!$B$3</x:FmlaLink>
    <x:NoThreeD/>
   </x:ClientData>
  </v:shape></xml>
